@@ -32,3 +32,7 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+	Automatic merging is faster and efficient when there's no conflict that need
+	to be resolved. Manual merge is also important to give programmers control over
+	which changes to implement.
