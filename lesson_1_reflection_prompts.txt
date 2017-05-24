@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing a diff between two versions displays lines in one file that are not
+    identical with lines in the second file. Thus, we can focus our attention to
+    a smaller chunk of code in order to find bugs.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It makes it easier to get back to previous version in case you develop
+    bugs in your program. It also give you a piece of mind when exploring 
+    new codes because you know you can get back to previous version if your
+    codes broke.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: a manual commit can be more relevant than automatically saved commit
+    if the commit represent a logical meaning.
+    Cons: a manual commit can be harder to get use to for a beginner and there 
+    could also be a confusion on when to do a commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because Git focus on version control in programming project, so it need to
+    keep the history of multiple files that are intercorrelated.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	Git log gives you list of commit with information about each commit. You can find a commit that you're interested in and do git diff between the commit and the previous commit.    
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Using version control let us return to previous version that we know work, this gives us more confident to experiment with codes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try using Git for my Udacity projects.
