@@ -30,12 +30,15 @@ files in one commit, while others, like Google Docs, treat each file separately?
 
 How can you use the commands git log and git diff to view the history of files?
 
-	Git log gives you list of commit with information about each commit. You can find a commit that you're interested in and do git diff between the commit and the previous commit.    
+    Git log gives you list of commit with information about each commit. You 
+    can find a commit that you're interested in and do git diff between the commit 
+    and the previous commit.    
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Using version control let us return to previous version that we know work, this gives us more confident to experiment with codes.
+    Using version control let us return to previous version that we know work, 
+    this gives us more confident to experiment with codes.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
